@@ -2,7 +2,7 @@
 
 Tools and languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,vite,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,vite,html,css,java,spring)](https://skillicons.dev)
 <!--
 **GeorgySavchuk/GeorgySavchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
